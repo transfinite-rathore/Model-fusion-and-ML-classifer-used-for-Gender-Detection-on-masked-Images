@@ -6,3 +6,4 @@ Feature Extractor notebook cover the code of extracted features combining DenseN
 In the multiclassifier notebook the saved data is used to train ML algo like RF, SVM, KNN, Logistic Regression and noted their performance.
 Same thing repeated in single classifier but the change is the feature extracted is done by only Dense Net 121.
 We compare their results.
+![image](https://user-images.githubusercontent.com/78965726/236618906-3d10f94f-83c0-47c6-a195-5a6b350802c9.png)
